@@ -1,1 +1,1 @@
-this study repo only
+This study repo only
